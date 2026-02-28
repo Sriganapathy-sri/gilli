@@ -1,0 +1,4 @@
+warning: in the working copy of 'dai', LF will be replaced by CRLF the next time Git touches it
+error: 'gilli/' does not have a commit checked out
+error: unable to index file 'gilli/'
+fatal: adding files failed
